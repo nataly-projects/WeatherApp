@@ -12,6 +12,6 @@ Weatherapp is a forecast app, which uses API to fetch 5 day / 3 hour forecast da
 Screenshots
 -----------
 
-![Alt text](/home/nataly/Downloads/s3.jpeg?raw=true "Optional Title")
+[![s3.jpg](https://i.postimg.cc/wTbgTtPk/s3.jpg)](https://postimg.cc/xcHW6d9k)
 [![mutt light](https://github.com/altercation/solarized/raw/master/img/screen-mutt-light-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-mutt-light.png)
 
