@@ -13,5 +13,6 @@ Screenshots
 -----------
 
 [![s3.jpg](https://i.postimg.cc/wTbgTtPk/s3.jpg)](https://postimg.cc/xcHW6d9k)
-[![mutt light](https://github.com/altercation/solarized/raw/master/img/screen-mutt-light-th.png)](https://github.com/altercation/solarized/raw/master/img/screen-mutt-light.png)
+[![s2.jpg](https://i.postimg.cc/3wXspWLV/s2.jpg)](https://postimg.cc/xkdpVjV3)
+[![s1.jpg](https://i.postimg.cc/85ynBvLK/s1.jpg)](https://postimg.cc/9R7pcr8Z)
 
