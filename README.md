@@ -1,9 +1,9 @@
 WeatherApp
 ============
 
-<h2>/weather app that display's the current weather and forecast for 5 days.</h2>
+weather app that display's the current weather and forecast for 5 days.
 
-- Data provided by [OpenWeatherMap API Documentation](http://openweathermap.org/api) 
+- Use OpenWeatherMap API
 
 - Search for locations and add to your weather list.
 
